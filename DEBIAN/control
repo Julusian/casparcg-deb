@@ -1,0 +1,6 @@
+Package: casparcg-2.2
+Version: 2.2.0beta1
+Maintainer: TODO
+Architecture: amd64
+Description: TODO
+Depends: libglew2.0 (>= 2.0.0), libtbb2 (>= 2017~U7-8), libsfml-graphics2.4 (>= 2.4.0), libsfml-window2.4 (>= 2.4.0), libsfml-system2.4 (>= 2.4.0), libssl1.1 (>= 1.1.0), libopenal1 (>= 1.18.2), libfreeimage3 (>= 3.17.0), libicu60 (>= 60.2), libavformat57 (>= 3.4.2), libass9 (>= 0.14), libfdk-aac1 (>= 0.1.5), librtmp1 (>= 2.4), libxcb-shape0 (>= 1.12), libxcb-shm0 (>= 1.12), libnss3 (>= 3.35)

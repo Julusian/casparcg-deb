@@ -1,0 +1,3 @@
+# Deregister from the alternatives system
+update-alternatives --remove casparcg /usr/bin/casparcg-2.2
+
